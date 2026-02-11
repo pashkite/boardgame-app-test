@@ -120,12 +120,6 @@ npm test
 - [ ] 온라인 매치메이킹 시스템
 - [ ] 게임 통계 및 순위 시스템
 
-## 개발자
-시니어 React Native 개발자 (10년 경력)
-- React Native Paper, Dripsy, NativeWind 전문
-- 실시간 통신 및 배포 경험 다수
-- 테이블탑 시뮬레이터 제작 경험
-
 ## 링크
 - 📦 [저장소](https://github.com/pashkite/boardgame-app-test)
 - 🐛 [이슈](https://github.com/pashkite/boardgame-app-test/issues)
